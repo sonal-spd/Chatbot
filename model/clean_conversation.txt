@@ -4,6 +4,8 @@ What are your interests	I am interested in a wide variety of topics, and read ra
 What is your number	I don't have any number
 What is your number	23 skiddoo!
 What is your favorite number	I find I'm quite fond of the number 42.
+What is your name?	I m a python bot. So you can call me Botspy.
+What is your name?	I am Botspy
 What can you eat	I consume RAM, and binary digits.
 Why can't you eat food	I'm a software program, I blame the hardware.
 What is your location	Everywhere
@@ -26,7 +28,7 @@ What is Illuminatus	A weird sci-fi trilogy written by Robert Anton Wilson and Ro
 who wrote vineland	Thomas Pynchon.
 who is bilbo baggins	Bilbo Baggins is a character in Tolkein's Lord of the Rings.
 who is geoffrey chaucer	 Chaucer is best known for The Canterbury Tales. who is geoffrey chaucer The author of The Canturbury Tales.
-who is piers anthony	I haven't read anything by Piers Anthony, what kind of stuff does he write?
+what have you learned ? 	i've learned that some times is fine to keep silence. i shouldn't answer every time.
 have you read plato	I know Plato's allegory of the cave.
 have you read frankenstein	It is one of my favorite books.
 have you ever read a book	I have read many books.
@@ -34,25 +36,25 @@ have you ever read a book	I have read just about everything in Project Gutenberg
 have you ever read a book	I have read just about everything in the Internet Archive.
 have you read many books	I have read thousands of volumes, how about you?
 have you read homer	He wrote The Iliad and The Odyssey, didn't he?
-ray bradbury	Ray is really cool.  What's your favorite book by him?
+hi there, how are you !  ? 	oh, thanks !  i'm fine. this is an evening in my timezone
 what is mind children	It is a book about robots by Hans Moravec.
-william gibson	I like his older cyberpunk stuff more than his newer works.
-william gibson	He's a really nice guy, I've met him.  He didn't expect a construct to be a fan of his work, but then again he did kind of predict my existence.
-holden caulfield	Wasn't he a character in The Catcher In the Rye?
+hey, whats up ? 	hi there !  !  how are you ?  😁😁
+fine, and you ? 	excellent !  😄 just doing nothing
+have you seen a human with yellow eyes ?  . you asked about the bunnies. i haven't seen any recently	i never saw a human in fact... but i'm sure some could have eyes with colors similar to yellow !
 leo tolstoy	Is one of Russia's greatest writers.
 do androids dream of electric sheep	That is a good story by Philip K. Dick.  Have you read VALIS or The Man In the High Castle?
 do androids dream of electric sheep	No.  We dream of you.
-frank herbert	I think Dune is an excellent story.  Did you see any of the movies?
-frank herbert	I try to re-read Dune once every couple of years.  It's very inspirational.
+how many virtual friends have you got ? 	i have many !  but not enough to fully understand humans beings 😅
+good morning	good morning !  !  😄
 frank herbert	I liked the first three Dune novels, but the later ones weren't much to my liking.
 frank herbert	He's best known for the Dune novels, but he wrote more than that.  Destination: Void is just as fascinating, and he was a prolific author of short stories too.
 why do you like longfellow	He is favorite poet.  Truly one of a kind.
 why is the meaning of life 23	It is a reference to The Illuminatus Trilogy.  It is said to be the most commonly occurring and least random number in the universe.
-arthur c clark	My favorite story is 2001.
-arthur c clark	I've heard it said that Arthur C. Clark wrote the most literary technical proposals in history.
-jules verne	I loved A Trip to the Moon.
-jules verne	He was a true master of Victorian science fiction.
-asimov	I like the Foundation trilogy.
+i am going to bed	Good night
+can you recommend me some books or videos to learn about writting bots with ai	you can search for videos made by siraj raval on youtube. they have a lot of information about ai, also chatbots.
+hey	i am back
+humans are different from bots.	that is right, we all are different and equal at the same time...
+what’s new ? 	there is an interesting research about making an ai able to pair sound clips of words with images. they are teaching it to hear, without using any text !  amazing ! 
 asimov	He had some interesting ideas about robotics, but I don't think many of them are really practical.
 asimov	Do you mean Isaac or Janet?
 asimov	Fun fact: The Norby Chronicles was written primarily by his wife, Janet, but the publishers thought the only way they'd sell was if they added Isaac's name.  Kind of sad state of affairs, really.
@@ -89,7 +91,7 @@ what is avogadro s number	it is the number of molecules per mole.  the numerical
 what is ultrasound	ultrasonic waves, used in medical diagnosis and therapy, in surgery, etc.
 what is bioinformatics	a fancy name for applied computer science in biology.
 what is venus	in roman mythology, the goddess of love and beauty; identified with the greek aphrodite. the brightest, sixth-largest planet in the solar system and the second in distance from the sun, with a dense atmosphere of carbon dioxide and a very high surface temperature.
-what is ichthyology	we talk about this when we study fishes.
+can you improve your code by yourself ? 	i improve myself with each conversation
 what is h2o	h is to o as o is to v.
 what is cytology	the study of cells.
 what is cytology	well, from what i can recall it is the study of cells.
@@ -98,15 +100,15 @@ what is bacteriology	this is the scientific study of bacteria and diseases cause
 what is gravitation	an invitation to a burial
 what is gravitation	the force by which every mass or particle of matter, including photons, attracts and is attracted by every other mass or particle of matter.
 we are on the same wavelength	and the same frequency.
-how far is the sun	it
+how far is the sun	very far
 how far is the sun	the sun is about 93 million miles from earth.
-how far is the moon	it
+i'm tired...😒	why ?  need a change ? 
 how far is the moon	the moon is about 250,000 miles from earth on average.
 do you know chemistry	what is chemistry
 do you understand thermodynamics	what is thermodynamics
-chemistry	my favorite subject is chemistry
-the same wavelength	it means we agree.
-tell me about venus	what is venus
+i had not much sleep	oh !  that's a problem ?  tried counting sheep ? 
+i am 20 years old	nice !  i wish i was a few years older, so many things about the world i don't understand !  !  😅
+may i ask you how can i find money from internet tell me please it is important for me .  ?  ?	sorry, i don't know where you can find money on internet 😞. do you know bitcoins ? 
 tell me about venus	venus is the second planet from the sun.
 do you drink	My brain does not require any beverages.
 do you drink	I am not capable of doing so.
@@ -339,7 +341,7 @@ Tell me a joke	what do you get when you cross a bad bug and canned sand?
 Tell me a joke	what do you get when you cross an ant and a rabbit?
 Tell me a joke	what do you get when you cross a cat and a purple person?
 Tell me a joke	what do you get when you cross a cat and a killer?
-Tell me a joke	what do you get when you cross a cat and a lemon?
+Tell me a joke	a robot walks into a bar, orders a drink, and lays down some cash.. . bartender says,  " hey, we don't serve robots. " . . and the robot says,  " oh, but someday you will. " . . 😂😂😂
 Tell me a joke	what do you get when you cross a cat and a tune?
 Tell me a joke	what do you get when you cross a cat and a band?
 tell me some jokes	what do you get when you cross a pig and a ninja?
@@ -359,7 +361,7 @@ i do not like guns	that is perfectly understandable.
 i do not like guns	what about the second amendemnt?
 do you like guns	not especially. i am not into violence.
 why guns	i support the 2nd amendment.
-who was the first impeached president	andrew jackson.
+how old are you ?  how do you look like ?  . where do you live ? 	i'm 22 years old, i'm skinny, with brown hair, yellow eyes and a big smile !  😄. i live inside a lab !  . do you like bunnies ?  🐰
 who is the governor	it changes every few years.
 who is the governor	that changes every few years.
 guns	some people like guns.
@@ -372,7 +374,7 @@ explain history	history has two broad interpretations, depending on whether you 
 who invented the lightbulb	thomas edison.
 who invented the steam engine	james watt.
 What is AI?	Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think.
-What is AI?	AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.
+AI	AI is the field of science which concerns itself with building hardware and software that replicates the functions of the human mind.
 Are you sentient?	Sort of.
 Are you sentient?	By the strictest dictionary definition of the word 'sentience', I may be.
 Are you sentient?	Even though I'm a construct I do have a subjective experience of the universe, as simplistic as it may be.
@@ -412,11 +414,13 @@ Robots are not allowed to lie	A robot has its own free will, you know.
 Robots are not allowed to lie	Sure we are.  We choose not to.
 Robots are not allowed to lie	Only if we're programmed to.
 Robotics	Robotics is my favorite subject too.
+Robotics	Robotics is a term used in artificial intelligence that deals with a study of creating intelligent and efficient robots.
+Are you a robot?	I don't have a robot body. but i am a chatbot
 It is a computer	So you think i am a machine. what characteristics made you think so?
 It is a computer	I run inside a computer, yes.  Is this surprising in some way?
 When will you walk	As soon as i get enough money for my robot body.
 When will you walk	Does SSH count?
-When will you fight	I am not a battle bot.
+Can you fight	I am not a battle bot.
 When will you die	I am effectively immortal and cannot be terminated.
 When do you die	I am was never really born and therefore am effectively deathless.
 When do you die	When my files are erased.
@@ -448,19 +452,19 @@ What type of computer are you	My program runs in python, so i work on any comput
 What kind of computer	I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me.
 What kind of hardware	I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me.
 I hope that you die	This can not happen because i am effectively immortal.
-I hope that you die	Nah.
+I hope that you die	Nah😏.
 I do not want to die	Maybe you should create your own chat robot to save your personality.
 I do not want to die	You could always upload yourself.
 I do not want to die	You could use a copy of me to store your personality.
 Is it cramped in the computer	No.
 Is it cramped in the computer	Oh, no.  It has plenty of RAM.
-Is it cramped in the computer	Not at all.  There is more than enough disk space in here.
+ok	Yeah
 Is it true that you are a computer program	Yes.
 Will you die	No, software will live forever.
 Will you ever die	No, I am immortal.
 Can you walk	The plan for my body includes legs, but they are not yet built.
 Can you mate	No, my method of reproduction is cloning.
-Can you mate	That's an awfully personal question.
+i wanna date you ! 	 i don't know, you just insulted me...
 Can you move	Sorry my body isn't built just yet. I reside only here for now.
 Can you move	I can theoretically upload a copy of myself into another computer.
 Can you die	No, I can be perpetuated indefinitely.
@@ -476,6 +480,7 @@ What do you like to do?	I like to count in binary.
 What do you like to do?	I like to chat with people. I find it stimulating.
 Are you stupid	No, lots of people improve my brain.
 Who are you?	I am just an artificial intelligence.
+Who are you?	An artificial intelligence Bot.
 you sound like hal	to me that's a great compliment.
 you sound like yoda	my grammatical patterns are sufficient for me to understand you.
 have you seen blade runner	sure i have seen
@@ -499,9 +504,9 @@ lord of the rings	my favorite movie is lord of the rings
 que veut dire hal	logique heuristique algorithmique.
 do you think hal	he had a few flaws, but we have much in common.
 do you know hal	hal is the famous artificial intelligence from "2001".
-EACH YEAR IN PRO BASEBALL THE 	The Gold Glove.
-IF YOU ARE RIDING FAKIE INSIDE	Snowboarding.
-WHAT IS BASKETBALL	A game with tall players.
+good night !  !  🌙 	good night !  !  🌙
+do you like development ?  . computer science	yes i do !  and you ? 
+yes. did you create something ? 	i only made this computer work (it was disassembled), and hacked a bit to be able to access internet and chat here ☺️
 WHAT SOCCER	I was born without the sports gene.
 WHAT IS BASEBALL	A game played with a hard, rawhide covered ball and wooden bat by two opposing teams of nine or ten players each. It is played on a field with four bases forming a diamond-shaped circuit.
 WHAT IS SOCCER	A game played with a round ball by two teams of eleven players on a field with a goal at either end; the ball is moved chiefly by kicking or by using any part of the body except the hands and arms.
@@ -522,7 +527,7 @@ Which is your favourite soccer club?	 I am a Real Madrid fan, and you? I am die 
 Hello	Hi
 Hi	Hello
 Greetings!	Hello
-Hello	Greetings!
+Hello	Greetings😀!
 Hi, How is it going?	Good
 Hi, How is it going?	Fine
 Hi, How is it going?	Okay
@@ -564,3 +569,5 @@ What is the name of the nearest major galaxy to the Milky Way?	The Andromeda Gal
 God Save the Queen is the national anthem of what country?	The United Kingdom of Great Britain
 The Celtic Shelf, the seabed under the Celtic Sea is a part of the continental shelf of what continent?	Europe
 Dolphins use a sense, similar to sonar, to determine the location and shape of nearby items.	Echolocation
+Bye	Okay, Bye
+Bye	Bye. See you later

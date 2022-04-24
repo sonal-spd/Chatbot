@@ -1,0 +1,13 @@
+
+fastapi
+keras
+Keras-Preprocessing
+numpy
+pandas
+pydantic
+regex
+requests
+TextBlob
+tensorflow
+uvicorn
+

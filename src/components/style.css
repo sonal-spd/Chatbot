@@ -1,0 +1,132 @@
+
+h1, p {
+    font-family: Lato;
+  }
+
+  .chatSection {
+    
+    background: white;
+    background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+    margin: auto;
+    width: 500px;
+    height: 80vh;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 20px;
+  }
+ 
+  /* On mouse-over, add a deeper shadow */
+  .chatSection:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .heading {
+    background-color: purple;
+    font-size: 30px;
+  font-family: 'Fira Code';
+  text-align: center;
+  border-top-left-radius: 20px; /* 8px */
+border-top-right-radius: 20px; /* 8px */
+  position: sticky;
+    
+  }
+  
+  .botContainer {
+    display: flex;
+    width: 500px;
+    height:auto;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .messagesSection {
+    height: 90%;
+
+  }
+  
+  .messageInputField {
+    margin-left: 10px;
+    font-size: 18px;
+    outline:none;
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    border-radius: 8px;
+    width: 90%;
+  }
+  
+  .inputSection {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 7px;
+  }
+  .microphone.isListening {
+    background-color:blueviolet;
+    border-radius: 2em;
+  }
+  .messagesSection {
+    min-height: 63vh;
+    max-height: 63vh;
+    margin-top: 20px;
+    overflow-y: auto;
+  }
+  
+  /* Message component styles here 👇 */
+  .botCard {
+    width: 80%;
+    border-bottom-right-radius: 30px 30px;
+    border-top-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+    background-color: rgb(207, 141, 245);
+    margin-left: 5px;
+    color: white;
+    margin: 10px;
+  }
+  
+  .userCard {
+    width: 80%;
+    border-bottom-right-radius: 30px 30px;
+    border-top-left-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+    float: right;
+    background-color: #6C63FF;
+    margin-right: 5px;
+    color: white;
+  }
+  
+  .messagesSection::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .messagesSection {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  
+  .messagesContainer {
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+  }
+  
+  @media only screen and (max-width: 500px) {
+    .inputSection {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      margin-top: 15px;
+    }
+  
+    .userCard {
+      width: 50%;
+    }
+  
+    .botCard {
+      width: 50%;
+    }
+    
+  }
+ 
